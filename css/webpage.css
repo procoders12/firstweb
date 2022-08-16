@@ -1,0 +1,115 @@
+#outerdiv{
+    height: 100vh;
+    width: 100vw;
+}
+#thediv1{
+    height: 50%;
+    width: 100%;
+    margin: auto;
+    background-color: #cb94a4;
+    border: 1px solid #cb94a4;
+}
+#thediv2{
+    height: 45%;
+    width: 100%;
+    margin: auto;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+h3{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 0.2vw;
+
+}
+mark{
+    background-color: #cb94a4;
+    color: white;
+
+
+}
+#hello{
+    margin-top: 5vh;
+    margin-left: 15vw;
+    display: inline-block;
+
+}
+#hello2{
+    height: 40vh;
+    width: 25vw;
+    display: inline-block;
+    margin-left: 12vw;
+    margin-top: 5vh;
+}
+button{
+    margin-left: 15vw;
+    height: 6vh;
+    width: 8vw;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border:none;
+    border-radius: 5px;
+    background-color: purple;
+    color: white;
+}    
+.colourdivs{
+    width: 32.8%;
+    height: 45.5vh;
+    display: inline-block;
+    border: 2px solid red;
+}
+#inner1{
+     background-color: #ffd249;
+     border: 2px solid #ffd249;
+}
+#inner2{
+    background-color: #52c39f;
+    border:2px solid #52c39f;
+}
+#inner3{
+    background-color: #3caaf4;
+    border:2px solid #3caaf4;
+}
+.content{
+    height: 18vh;
+    width: 20vw;
+    margin-top: 5vh;
+    margin-left: 4vw;
+}
+.content h5{
+    color: whitesmoke;
+    font-size: 1.5vw;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.content p{
+    font-size: 1.1vw;
+    letter-spacing: 0.1vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(0, 0, 0, 0.623);
+    margin-bottom: 1vh;
+}
+#inner1 button{
+    margin-top: 12vh;
+    margin-left: 5vw;
+    background-color: #ffd249;
+    border: 1px solid whitesmoke;
+    font-size: small
+}
+#inner2 button{
+    margin-top: 12vh;
+    margin-left: 5vw;
+    background-color: #52c39f;
+    border: 1px solid whitesmoke;
+    font-size: small
+}
+#inner3 button{
+    margin-top: 12vh;
+    margin-left: 5vw;
+    background-color: #3caaf4;
+    border: 1px solid whitesmoke;
+    font-size: small
+}
+

@@ -1,0 +1,45 @@
+#outerdiv1{
+    height: 97vh;
+    width: 99vw;
+    background-color:#004c5c ;
+    border: 1px solid #004c5c;
+
+}
+#lol{
+    height:40vh;
+    width: 30vw;
+    margin-left: 10vw;
+    margin-top: 20vh;
+    display: inline-block;
+}
+
+#div2{
+    height: 90vh;
+    width: 45vw;
+    margin-left: 48vw;
+    display: inline-block;
+    border: 1px solid black;
+}
+#div2 h1{
+    color: white;
+    font-size: 10vh;
+    letter-spacing: 0.2vw;
+}
+#div2 h2{
+    color: white;
+    font-size: 10vh;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.5vw;
+}
+#div2 h3{
+    color: white;
+    font-size: 10vh;
+    letter-spacing: 0.5vw;
+}
+#div2 h4{
+    color: white;
+    font-size: 10vh;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 0.5vw;
+}
+
